@@ -18,6 +18,13 @@ The AI agent in this Snake game utilizes Deep Q-Network (DQN), a reinforcement l
 
 During training, the agent interacts with the environment, collects experiences, and updates the Q-values using the loss between predicted and target Q-values. Over time, the agent learns an optimal policy that maximizes cumulative rewards, allowing it to play the game effectively.
 
+1. **Record**: 80.
+1. **Mean Score**: 49.
+
+### Problems
+
+One of the main challenges in this implementation is that the snake does not have spatial awareness of its body. Therefore, it can inadvertently collide with itself, leading to premature game over.
+
 ![Snake](code/22.png)
 
 ## Table of Contents

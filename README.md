@@ -58,7 +58,8 @@ During training, the agent interacts with the environment, collects experiences,
 ## Usage
 
 Run the game by executing the main script:
-    ```bash
+
+    ```cmd
     python agent.py
    ```
 

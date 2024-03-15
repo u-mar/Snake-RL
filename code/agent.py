@@ -12,7 +12,7 @@ MAX_MEMORY = 100_000
 BATCH_SIZE = 1000
 LR = 0.001
 
-load_model = 'yes'
+load_model = None
 class Agent:
     def __init__(self):
         self.n_games = 0

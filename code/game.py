@@ -109,7 +109,7 @@ class SnakeGameAI:
         return False
 
 
-    def _update_ui(self):
+    def _update_ui(self,record):
         self.display.fill(BLACK)
 
         for pt in self.snake:

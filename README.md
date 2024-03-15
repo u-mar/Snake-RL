@@ -89,6 +89,6 @@ Run the game by executing the main script:
 
 ## Credits
 
-This game is inspired by the classic Snake game and built using Python and Pygame. Special thanks to the developers of Pygame for providing a powerful framework for game development.
+This game is inspired by the classic Snake game and built using Python and Pygame. 
 
-Feel free to customize and expand this README file for your project!
+

@@ -18,6 +18,8 @@ The AI agent in this Snake game utilizes Deep Q-Network (DQN), a reinforcement l
 
 During training, the agent interacts with the environment, collects experiences, and updates the Q-values using the loss between predicted and target Q-values. Over time, the agent learns an optimal policy that maximizes cumulative rewards, allowing it to play the game effectively.
 
+![Snake](code/22.png)
+
 ## Table of Contents
 
 - [Requirements](#requirements)
@@ -38,7 +40,7 @@ During training, the agent interacts with the environment, collects experiences,
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/filmcraze-recommender.git
+    git clone https://github.com/u-mar/Snake-RL.git
     ```
 
 2. Navigate to the project directory:
